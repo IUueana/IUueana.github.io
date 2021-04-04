@@ -84,9 +84,9 @@
     
     
     
-    <category term="小工具" scheme="http://yoursite.com/tags/%E5%B0%8F%E5%B7%A5%E5%85%B7/"/>
-    
     <category term="git&amp;github" scheme="http://yoursite.com/tags/git-github/"/>
+    
+    <category term="小工具" scheme="http://yoursite.com/tags/%E5%B0%8F%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
